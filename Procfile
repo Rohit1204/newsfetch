@@ -1,0 +1,1 @@
+web: gunicorn NewsFetch.wsgi --log-file -
